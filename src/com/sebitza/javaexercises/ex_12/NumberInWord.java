@@ -1,4 +1,4 @@
-package com.sebitza.javaexercises.ex12;
+package com.sebitza.javaexercises.ex_12;
 
 public class NumberInWord {
     public static void printNumberInWord(int number) {

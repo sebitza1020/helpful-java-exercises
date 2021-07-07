@@ -1,4 +1,4 @@
-package com.sebitza.javaexercises.ex13;
+package com.sebitza.javaexercises.ex_13;
 
 public class DaysInMonth {
     public static boolean isLeapYear(int year) {

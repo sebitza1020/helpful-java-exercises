@@ -1,12 +1,12 @@
-package com.sebitza.javaexercises.ex4;
+package com.sebitza.javaexercises.ex_4;
 
 public class LeapYear {
     public static boolean isLeapYear(int year) {
-        if(year <= 1 || year >= 9999) {
+        if (year <= 1 || year >= 9999) {
             return false;
         } else {
-            if(year % 4 == 0) {
-                if(year % 100 == 0) {
+            if (year % 4 == 0) {
+                if (year % 100 == 0) {
                     return year % 400 == 0;
                 } else {
                     return true;
@@ -15,5 +15,10 @@ public class LeapYear {
                 return false;
             }
         }
+    }
+
+    public static void main(String[] args) {
+        boolean isIt = LeapYear.isLeapYear(2000);
+        System.out.println(isIt);
     }
 }

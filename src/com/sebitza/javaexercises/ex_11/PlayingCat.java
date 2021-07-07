@@ -1,4 +1,4 @@
-package com.sebitza.javaexercises.ex11;
+package com.sebitza.javaexercises.ex_11;
 
 public class PlayingCat {
     public static boolean isCatPlaying(boolean summer, int temperature) {

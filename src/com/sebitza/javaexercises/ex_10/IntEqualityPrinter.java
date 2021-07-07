@@ -1,4 +1,4 @@
-package com.sebitza.javaexercises.ex10;
+package com.sebitza.javaexercises.ex_10;
 
 public class IntEqualityPrinter {
     public static void printEqual(int v1, int v2, int v3) {
