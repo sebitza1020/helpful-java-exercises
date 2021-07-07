@@ -1,4 +1,4 @@
-package com.sebitza.javaexercises.ex7;
+package com.sebitza.javaexercises.ex_7;
 
 public class TeenNumberChecker {
     public static boolean hasTeen(int v1, int v2, int v3) {
@@ -11,5 +11,12 @@ public class TeenNumberChecker {
 
     public static boolean isTeen(int v) {
         return v >= 13 && v <= 19;
+    }
+
+    public static void main(String[] args) {
+        boolean hasIt = TeenNumberChecker.hasTeen(22, 18, 27);
+        System.out.println(hasIt);
+        boolean isIt = TeenNumberChecker.isTeen(13);
+        System.out.println(isIt);
     }
 }

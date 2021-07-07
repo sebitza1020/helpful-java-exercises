@@ -1,4 +1,4 @@
-package com.sebitza.javaexercises.ex9;
+package com.sebitza.javaexercises.ex_9;
 
 public class MinutesToYearsDaysCalculator {
     public static void printYearsAndDays(long minutes) {
