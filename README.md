@@ -1,6 +1,8 @@
 # Helpful Java Exercises
 I am sharing with you some helpful Java Exercises. Note that this project is still a work in progress as we continue to add more exercises.
 
+Update(July 9 @ 12:45PM): 4 more OOP exercises have been added.
+
 Update(July 8 @ 03:46PM): 8 OOP exercises have been added.
 
 Update(July 8 @ 10:43AM): Reorganized packages. From now on I will post exercises per chapter.
