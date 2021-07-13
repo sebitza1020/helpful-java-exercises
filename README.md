@@ -1,6 +1,8 @@
 # Helpful Java Exercises
 I am sharing with you some helpful Java Exercises. Note that this project is still a work in progress as we continue to add more exercises.
 
+Update(July 13 @ 01:23PM): 2 more Arrays exercises have been added.
+
 Update(July 12 @ 01:03PM): 4 Arrays exercises have been added.
 
 Update(July 9 @ 12:45PM): 4 more OOP exercises have been added.
