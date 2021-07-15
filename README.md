@@ -1,7 +1,9 @@
 # Helpful Java Exercises
 I am sharing with you some helpful Java Exercises. Note that this project is still a work in progress as we continue to add more exercises.
 
-Update(JUly 15 @ 02:21PM): 3 challenges from naming conventions and collections and 1 exercise from collections have been added.
+Update(July 15 @ 03:05PM): 1 challenge and 1 exercise from immutable classes have been added.
+
+Update(July 15 @ 02:21PM): 3 challenges from naming conventions and collections and 1 exercise from collections have been added.
 
 Update(July 14 @ 01:03PM): 3 exercises w/ interface and 1 challenge from Generics have been added.
 
