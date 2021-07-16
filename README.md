@@ -1,6 +1,8 @@
 # Helpful Java Exercises
 I am sharing with you some helpful Java Exercises. Note that this project is still a work in progress as we continue to add more exercises.
 
+Update(July 15 @ 01:06PM): Changes made at collections package from challenges.
+
 Update(July 15 @ 01:03PM): 1 challenge and 1 exercise from sets have been added.
 
 Update(July 15 @ 03:05PM): 1 challenge and 1 exercise from immutable classes have been added.
