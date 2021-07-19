@@ -1,7 +1,7 @@
 # Helpful Java Exercises
 I am sharing with you some helpful Java Exercises. Note that this project is still a work in progress as we continue to add more exercises.
 
-Update(July 15 @ 01:38PM): (BUG FIX) Package names changed.
+Update(July 19 @ 01:38PM): (BUG FIX) Package names changed.
 
 Update(July 15 @ 01:06PM): Changes made at collections package from challenges.
 
