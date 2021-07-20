@@ -1,7 +1,7 @@
 # Helpful Java Exercises
 I am sharing with you some helpful Java Exercises. Note that this project is still a work in progress as we continue to add more exercises.
 
-Update(July 19 @ 11:50AM): Concurrency challenge has been added.
+Update(July 20 @ 11:50AM): Concurrency challenge has been added.
 
 Update(July 19 @ 01:38PM): (BUG FIX) Package names changed.
 
