@@ -1,6 +1,8 @@
 # Helpful Java Exercises
 I am sharing with you some helpful Java Exercises. Note that this project is still a work in progress as we continue to add more exercises.
 
+Update(July 29 @ 12:45PM): Collections challenge added.
+
 Update(July 21 @ 11:16AM): Unit tests challenge has been added.
 
 Update(July 20 @ 11:50AM): Concurrency challenge has been added.
