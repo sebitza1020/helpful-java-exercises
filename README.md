@@ -1,6 +1,8 @@
 # Helpful Java Exercises
 I am sharing with you some helpful Java Exercises. Note that this project is still a work in progress as we continue to add more exercises.
 
+Update(August 30 @ 11:14AM): Lambdas challenge added.
+
 Update(August 4 @ 11:14AM): Methods challenge added.
 
 Update(July 29 @ 03:33PM): Regular Expressions challenge added.
